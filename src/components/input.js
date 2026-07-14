@@ -1,5 +1,9 @@
-function Input() {
-    return <div > Input < /div>;
+function input() {
+    return (
+        <div>
+
+        </div>
+    )
 }
 
-export default Input;
+export default input
